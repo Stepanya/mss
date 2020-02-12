@@ -1,0 +1,66 @@
+List of Revisions 
+Make sure features of system is limited to the employee role
+
+---------------------------
+Recruitment:
+Every activity on the recruitment stage should be reflected on the system
+Member should have triggers/ indicator that approves stage update and not just edit the stage...
+
+//
+Recruitment stages to have passed or fail per stage
+(Should not be able to go back stages..)
+//
+
+Sales:
+Added client should be able to indicate who recruited in the system **check _/
+Reports on sales & commission should be shown only to the manager who handles them or the employees own records...
+
+Improve commission report to determine reports per financial adviser branch manager etc.
+-----------------------------------------------------
+
+
+
+*To work on: 
+Dashboard Total Sales Per User
+Sales Report... Payment Method different uses...
+Pag pumili ng policy sa reports may error.
+
+Financial ADvisor
+CH7702
+Z1PXYBH8
+
+
+//**
+//**
+
+//**
+* Financial Adviser LOGIN
+ Pag financial advisor nag login...
+Ang nasa dashboard nya lang is ung sales nya and commission niya....
+
+Dashboard and chart details nya lang makikita
+
+Pag financial advisor on Dashboard makita lang is ung total sales nya.
+Alisin ung Assumed Total Revenue
+
+Remove Applicant Registrations..
+Remove Total Assumed Revenue
+Remove recruitment Chart
+
+Commission and Sales Chart.. Wala ng select employee na select..
+
+Sales Tracker should only show own sales...( Financial Adviser)
+
+Reports on total sales per financial advisor should show only THEIR records
+
+Sales Report should only show own reports...
+Cannot show other Employees reports
+
+**//
+
+
+//**
+Recruitment....
+
+
+**//

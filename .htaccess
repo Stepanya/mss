@@ -1,0 +1,9 @@
+DirectoryIndex login.php
+
+Options -Indexes 
+
+RewriteEngine On
+
+ErrorDocument 500 /MSS_v2/errors/500.php
+ErrorDocument 404 /MSS_v2/errors/404.php
+ErrorDocument 403 /MSS_v2/errors/403.php
